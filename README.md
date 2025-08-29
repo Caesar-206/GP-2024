@@ -1,4 +1,7 @@
 # Game Programming 2024
+Can Pezek
+D12245963
+MED9016
 
 Welcome to the Metaverse
 
@@ -142,4 +145,5 @@ Weekly engagement mark is assessessed automatically by evaluating the number of 
 
 ## Week 1
 - Yoga
+
 - Introductions
